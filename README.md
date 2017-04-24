@@ -1,3 +1,7 @@
+# Anagram
+## a site that analyzes possible anagrams
+made to practice php testing 
+
 ## Application Spex
 * _app will identify matching words_
   * **Input:** bread, bread
